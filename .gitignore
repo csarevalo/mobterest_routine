@@ -1,0 +1,10 @@
+# Blocklist files & folders in same directory as the .gitignore file
+/*
+
+# Include these files
+!.gitignore
+!README.md
+!pupspec.yaml
+
+# Include all files & subdirectories within lib/
+!/lib/
