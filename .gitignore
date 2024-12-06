@@ -4,7 +4,7 @@
 # Include these files
 !.gitignore
 !README.md
-!pupspec.yaml
+!pubspec.yaml
 
 # Include all files & subdirectories within lib/
 !/lib/
